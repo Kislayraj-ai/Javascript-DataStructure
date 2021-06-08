@@ -1,11 +1,11 @@
-#JavaScript Algorithms and Data Structures
+# JavaScript Algorithms and Data Structures
 
-This repository contains JavaScript based examples of commonly used algorithms and  data structures.
+This repository contains JavaScript based commonly used algorithms and  data structures.
 
-##Algorithms
+## Algorithms
 
 `1` Searching Algorithms
-    `a` Linear Search
-    `b` Binary Search
-    `c` Naive String search
-    `d` Kmps Search Algo
+  *  `a` Linear Search
+  * `b` Binary Search
+  *  `c` Naive String search
+  * `d` Kmps Search Algo
