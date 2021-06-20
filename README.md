@@ -89,6 +89,11 @@ This repository contains JavaScript based commonly used algorithms and  data str
      nodes with keys greater than the node’s key.
    * The left and right subtree each must also be
      a binary search tree.
+     
+     
+![bst](https://user-images.githubusercontent.com/68383933/122675309-7630c600-d1f6-11eb-80cd-6232e61ec6c3.png)
+
+
  
 
  `*` AVL tree is a self-balancing 
